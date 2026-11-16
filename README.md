@@ -99,8 +99,8 @@
 
 <div align="center">
 
-巡尽沧海一轻翎，点墨成图一盏星。
+点墨成图一盏星。
 
-*One light feather across the vast sea; one lamp of stars out of a drop of ink.*
+*One lamp of stars, out of a drop of ink.*
 
 </div>
