@@ -99,8 +99,8 @@
 
 <div align="center">
 
-先做出来，再慢慢打磨。
+巡尽沧海一轻翎，点墨成图一盏星。
 
-*Ship it first. Polish it after.*
+*One light feather across the vast sea; one lamp of stars out of a drop of ink.*
 
 </div>
