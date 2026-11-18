@@ -33,8 +33,8 @@
 
 *One at a time — every one counts.*
 
-- **GEO**：生成式引擎优化。采集各平台 AI 的回答和公开资料，看品牌在哪些问题里被推荐、依据是哪一条，整理成能逐条对照来源的报告。<br>*GEO, generative engine optimization — pull answers from AI platforms and public sources, work out where a brand gets recommended and on what grounds, then turn it into a report where every claim is traceable.*
-- **弦迹**：自己的站点，从界面到后台都自己写，最近在磨动效和富文本编辑器。<br>*StringTrace, my own site — front to back. Currently polishing motion and the rich-text editor.*
+- **GEO**：面向品牌的生成式引擎优化诊断与报告系统。<br>*GEO, generative engine optimization — a diagnosis and reporting system for brand visibility.*
+- **弦迹**：从界面到后台自己写的个人站点。<br>*StringTrace — a personal site built front to back.*
 - **[Trace](https://github.com/WHaoxM/Trace)**：面向个人、团队与 AI Agent 的开源非线性协作工作空间。<br>*Trace — an open-source non-linear collaboration workspace for individuals, teams and AI agents.*
 
 ## 做过的事 · BUILT
