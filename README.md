@@ -4,7 +4,7 @@
 
 巡尽沧海一轻翎
 <br>
-*One light feather, out of the vast sea.*
+*A single light feather, having crossed the whole sea.*
 
 [![弦迹](https://img.shields.io/badge/%E5%BC%A6%E8%BF%B9-StringTrace-2ea44f?style=flat-square)](https://www.flywill.top)
 [![GitHub](https://img.shields.io/badge/GitHub-SiderLock-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SiderLock)
@@ -17,33 +17,33 @@
 
 在代码与创意之间寻找平衡，用交互讲述故事。
 
-*Balancing code and creativity, telling stories through interaction.*
+*Balancing code and craft, telling stories through interaction.*
 
 做感兴趣的事情，让热爱永远生生不息。
 
-*Do the things that interest me, and keep the fire alive.*
+*Do what interests me. Keep the fire alive.*
 
 他山之石，可以攻玉。攀高方能望远。站在别人的肩膀上，常看常想。别人项目里那些有意思的内容和想法，拉下来，用 AI 分析分析、研讨研讨，融为己用，也顺便跟上了技术趋势。
 
-*Stones from other hills can polish the jade of this one. Only from a height can you see far. Standing on others' shoulders, eyes open and mind turning — the interesting content and ideas in other people's projects: pull them down, run them through AI, talk them over, make them my own, and pick up the direction tech is heading along the way.*
+*Iron sharpens iron. Climb higher and you see farther. Standing on other people's shoulders, I keep watching and thinking — pull down whatever looks interesting, chew it over with AI, make it my own, and stay in step with where things are heading.*
 
 ## 在做的事 · WORKING ON
 
 做一件，是一件
 
-*One at a time — every one counts.*
+*One thing at a time — and each one counts.*
 
 - **GEO**：生成式引擎优化，让推荐有据可依。<br>*GEO, generative engine optimization — so recommendations come with evidence.*
-- **弦迹**：我的自留地。写点东西、存点作品，偶尔折腾些没处放的小玩意。<br>*StringTrace — my own little plot: somewhere to write, keep work, and tinker with odds and ends.*
+- **弦迹**：我的自留地。写点东西、存点作品，偶尔折腾些没处放的小玩意。<br>*StringTrace — my own patch of land: somewhere to write, stash projects, and tinker with odds and ends.*
 - **[Trace](https://github.com/WHaoxM/Trace)**：面向个人、团队与 AI Agent 的开源非线性协作工作空间。<br>*Trace — an open-source non-linear collaboration workspace for individuals, teams and AI agents.*
 
 ## 做过的事 · BUILT
 
 问有所出，图有所长
 
-*Every answer has its source. Every graph keeps growing.*
+*Every answer accounted for; every graph still growing.*
 
-- **GraphRAG**：把知识图谱接进检索问答。先从资料里抽实体和属性建图，再让问答顺着图去找依据，答案能落回具体的节点。<br>*GraphRAG, knowledge graphs plugged into retrieval — entities and attributes extracted from documents into a graph, then answers that walk the graph and point back to specific nodes.*
+- **GraphRAG**：把知识图谱接进检索问答。先从资料里抽实体和属性建图，再让问答顺着图去找依据，答案能落回具体的节点。<br>*GraphRAG — knowledge graphs wired into retrieval. Entities and attributes go in, and answers come back pointing at the actual nodes.*
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 同舟共码，共写一卷
 
-*Same boat, same codebase, one long scroll.*
+*Same boat, same code — one story between us.*
 
 - **ChemicalRAGResolution** — 管理员，参与多个仓库<br>*Admin — several repos.*
 - **Lynx-codeRepository** — 成员，参与多个仓库<br>*Member — several repos.*
@@ -101,6 +101,6 @@
 
 点墨成图一盏星。
 
-*One lamp of stars, out of a drop of ink.*
+*A lamp of stars, lit from a drop of ink.*
 
 </div>
