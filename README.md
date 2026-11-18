@@ -35,7 +35,7 @@
 
 - **GEO**：生成式引擎优化。采集各平台 AI 的回答和公开资料，看品牌在哪些问题里被推荐、依据是哪一条，整理成能逐条对照来源的报告。<br>*GEO, generative engine optimization — pull answers from AI platforms and public sources, work out where a brand gets recommended and on what grounds, then turn it into a report where every claim is traceable.*
 - **弦迹**：自己的站点，从界面到后台都自己写，最近在磨动效和富文本编辑器。<br>*StringTrace, my own site — front to back. Currently polishing motion and the rich-text editor.*
-- **[职导星图 · CPA-Agent](https://github.com/WHaoxM/cpa-agent)**：面向大学生全周期职业规划的多智能体决策平台，从简历解析到职业报告是一条完整的决策闭环。<br>*CPA-Agent — an open-source multi-agent career planning platform for university students, and a closed decision loop from resume parsing to career reports.*
+- **[Trace](https://github.com/WHaoxM/Trace)**：面向个人、团队与 AI Agent 的开源非线性协作工作空间。<br>*Trace — an open-source non-linear collaboration workspace for individuals, teams and AI agents.*
 
 ## 做过的事 · BUILT
 
