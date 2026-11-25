@@ -35,7 +35,7 @@
 
 - **GEO**：生成式引擎优化，让推荐有据可依。<br>*GEO, generative engine optimization — so recommendations come with evidence.*
 - **弦迹**：我的自留地。写点东西、存点作品，偶尔折腾些没处放的小玩意。<br>*StringTrace — my own patch of land: somewhere to write, stash projects, and tinker with odds and ends.*
-- **[Trace](https://github.com/WHaoxM/Trace)**：面向个人、团队与 AI Agent 的开源非线性协作工作空间。<br>*Trace — an open-source non-linear collaboration workspace for individuals, teams and AI agents.*
+- **[Trace](https://github.com/WHaoxM/Trace)**：面向个人、团队和 AI Agent 的开源非线性协作工作空间。<br>*Trace — an open-source non-linear collaboration workspace for individuals, teams and AI agents.*
 
 ## 做过的事 · BUILT
 
@@ -50,6 +50,8 @@
 **AI 用量 · TOKEN SIGNALS**
 
 [![Tokens Stats](https://tokens.ci/api/embed/SiderLock/svg?graph=1&today=1&tokens=compact&cost=compact)](https://tokens.ci/u/SiderLock)
+
+*数据来自 [tokens.ci](https://tokens.ci/u/SiderLock)。*
 
 </div>
 
